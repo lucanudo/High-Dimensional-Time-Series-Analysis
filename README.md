@@ -1,4 +1,7 @@
 # High-Dimensional-Time-Series-Analysis
+
+**This project was jointly developed by Luca Nudo, Emidio Grillo, and Andrea Bianco.**
+
 The aim of the final evaluation is to apply some techniques of the course to some data sets.
 
 You will have to use 'TaiwanAirBox.csv' (the second data set is completed with 'locations.csv').
